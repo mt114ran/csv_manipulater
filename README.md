@@ -1,0 +1,2 @@
+# csv_manipulater
+容量の大きいCSVを分割したり先頭行抽出するcsv_manipulater
